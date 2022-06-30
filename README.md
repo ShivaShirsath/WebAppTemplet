@@ -1,7 +1,5 @@
 <h1 align=center>
-   rgba-generator
-  <br>
-  My App
+   My App
   <br>
   <a href=>
     ぷ
