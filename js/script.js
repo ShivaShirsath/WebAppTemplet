@@ -1,0 +1,1 @@
+document.write("JS loaded.");

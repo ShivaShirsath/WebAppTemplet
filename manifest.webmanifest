@@ -1,0 +1,29 @@
+{
+  "name": "App Name",
+  "short_name": "website",
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#ff8800aa",
+  "theme_color": "#ff8800",
+  "description": "app description",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "img/favicon_io/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/favicon_io/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "img/favicon_io/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
